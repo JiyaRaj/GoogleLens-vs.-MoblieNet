@@ -1,0 +1,30 @@
+body{
+    background-color: thistle;
+}
+
+.div_1{
+background-color: aquamarine;
+border-radius: 7px;
+border: groove 5px tomato;
+box-shadow: 2px 2px 30px green;
+margin-bottom: 10px;
+margin-top: 10px;
+padding: 30px;
+}
+
+h5{
+    background-color: lightblue;
+    border-radius: 7px;
+    border: dotted 2px orange;
+}
+
+img{
+    border: double 3px violet;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px !important;
+}
+
+.result{
+    text-align: center;
+}
